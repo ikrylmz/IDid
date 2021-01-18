@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177519318117",
+    "firebase_url": "https://ididit-434c2.firebaseio.com",
+    "project_id": "ididit-434c2",
+    "storage_bucket": "ididit-434c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177519318117:android:d30b2dd4348b0d3056a28c",
+        "android_client_info": {
+          "package_name": "com.example.idid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177519318117-jorbojk9fq52atovea3v2cgcbdmp37cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9mJpD42uf6TdHfHrzFLUSuZBBVie6dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177519318117-jorbojk9fq52atovea3v2cgcbdmp37cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
